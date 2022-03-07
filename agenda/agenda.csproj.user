@@ -11,5 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>agenda.Models.AppDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\pedro\Desktop\Projetos Estudo\agenda\agenda\agenda\Properties\PublishProfiles\agenda20220307024928 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
